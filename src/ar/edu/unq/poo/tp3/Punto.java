@@ -1,5 +1,7 @@
 package ar.edu.unq.poo.tp3;
 
+import java.util.Objects;
+
 public class Punto {
 	
 	private float x;
@@ -27,7 +29,6 @@ public class Punto {
 	public void setY(float y) {
 		this.y = y;
 	}
-	
 	
 	
 
