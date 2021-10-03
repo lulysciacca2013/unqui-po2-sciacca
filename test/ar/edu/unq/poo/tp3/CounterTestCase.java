@@ -25,13 +25,13 @@ public class CounterTestCase  {
 		counter.addNumero(1);
 		counter.addNumero(1);
 		counter.addNumero(1);
-		counter.addNumero(4);
+		counter.addNumero(2);
 	}
 	  
 	@Test
     public void testMultiplos() {
 		
-		int amount= counter.contadorMultiN(5);		// multiplos de 5
+		int amount= counter.contadorMultiN(5);		// multiplos de 5////
 		assertEquals(amount,1);
 	}
 	
