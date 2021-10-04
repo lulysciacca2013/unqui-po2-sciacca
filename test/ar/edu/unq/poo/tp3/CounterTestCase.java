@@ -25,7 +25,7 @@ public class CounterTestCase  {
 		counter.addNumero(1);
 		counter.addNumero(1);
 		counter.addNumero(1);
-		counter.addNumero(2);
+		counter.addNumero(4);
 	}
 	  
 	@Test

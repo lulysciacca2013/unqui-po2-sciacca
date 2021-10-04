@@ -15,7 +15,7 @@ public class Counter {
 	}
 
 		
-	public List<Integer> getCuenta() { // mostrar ////
+	public List<Integer> getCuenta() { // mostrar /
 		return Cuenta;
 	}
 
