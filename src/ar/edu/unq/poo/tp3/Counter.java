@@ -3,10 +3,11 @@ package ar.edu.unq.poo.tp3;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Objects;
+
 
 
 public class Counter {
+	
 	private ArrayList<Integer> Cuenta= new ArrayList<Integer>();
 	
 	

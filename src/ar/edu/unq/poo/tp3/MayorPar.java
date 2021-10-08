@@ -17,7 +17,7 @@ public class MayorPar {
 	}
 
 	
-	public int mayorDigitosPares() {
+	public int mayorDigitosPares() { // este metodo me da el número del arreglo que tiene la mayor cantidad de digitos pares
 	    int numero=0;
 	    int cantidad=0;
 	    int elMayor=0;
@@ -35,7 +35,7 @@ public class MayorPar {
 	    return numero;
 	}
 	
-	public int desarmoNumero(int num) {
+	public int desarmoNumero(int num) { //desarma el número y lo carga en un arrayList para que despues pueda contar la cant de n° pares
 	   ArrayList<Integer> auxiliar = new ArrayList<Integer>();	
 		while (num !=0) {
 			auxiliar.add(num%10);
