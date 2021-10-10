@@ -12,6 +12,17 @@ public class MayorPar {
 		// TODO Auto-generated constructor stub
 	}
 	
+		
+	public ArrayList<Integer> getMayor() {
+		return mayor;
+	}
+
+
+	public void setMayor(ArrayList<Integer> mayor) {
+		this.mayor = mayor;
+	}
+
+
 	public void addNumero(int valor) {
 		mayor.add(valor);
 	}

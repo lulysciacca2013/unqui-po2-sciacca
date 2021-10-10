@@ -63,6 +63,18 @@ public class Multiplo {
 		
 	}
 	
+	public String muestra() {
+		String a="a,b,c";
+		String s=a;
+		String t;
+		
+		System.out.println(a);
+		
+		return a;
+		
+		
+	}
+	
 	
 
 	
