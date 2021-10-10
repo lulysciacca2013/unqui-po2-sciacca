@@ -43,7 +43,7 @@ public class Multioperador {
 		}
 		return producto;
 	}
-	public void addNumero(int valor) {
+	public void addNumero(int valor) { //
 		multi.add(valor);
 	}
 

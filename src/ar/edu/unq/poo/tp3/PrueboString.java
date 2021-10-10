@@ -13,7 +13,7 @@ public class PrueboString {
 		int n=0;
 	    ArrayList<Integer> v= new ArrayList<Integer>();
 		
-		System.out.println( s.length());// devuelve la longitud de la cadena de caracteres 3
+		System.out.println( s.length());// devuelve la longitud de la cadena de caracteres 3//
 		//System.out.println( t.length()); da error porque t no esta inicializada
 		System.out.println( 1 + a); // devuelve la concatenacion 1abc
 		System.out.println( a.toUpperCase()); // devuelve la cadena en mayuscula ABC
